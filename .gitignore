@@ -1,0 +1,38 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*.swn
+*.swm
+
+# npm debug log
+npm-debug.log*
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Compiled binary addons
+/build/Release
+
+# yarn error logs
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
